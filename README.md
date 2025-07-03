@@ -9,7 +9,7 @@ This repo is solely made for you to go over SQL's concepts.
      Los datos de una RDBMS se almacenan en tablas (se trata de una colección de entrada de datos relacionadas), que están formadas por columnas (que son los campos verticales) y registros o filas (que son los campos horizontales).
 
 -----------------------------------------------------------------------------------------------------------------
-|Ojo: SQL no distingue entre mayúsculas y minúsculas. Además, la mayoría de líneas se cierran con punto y coma. |
+Ojo: SQL no distingue entre mayúsculas y minúsculas. Además, la mayoría de líneas se cierran con punto y coma. 
 -----------------------------------------------------------------------------------------------------------------
 
 </p>
