@@ -11,5 +11,26 @@ This repo is solely made for you to go over SQL's concepts.
 -----------------------------------------------------------------------------------------------------------------
 Ojo: SQL no distingue entre mayúsculas y minúsculas. Además, la mayoría de líneas se cierran con punto y coma. 
 -----------------------------------------------------------------------------------------------------------------
+</p>
 
+## Sintaxis
+<p>
+          - Statements: Las sentencias SQl estñan conformadas por palabras clave (keyword).
+     
+     Los comandos SQL más importantes son:
+     
+          - SELECT
+          - UPDATE
+          - DELETE
+          - INSERT INTO
+          
+          - CREATE DATABASE
+          - ALTER DATABASE
+          
+          - CREATE TABLE
+          - ALTER TABLE
+          - DROP TABLE
+          
+          - CREATE INDEX
+          - DROP INDEX
 </p>
