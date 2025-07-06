@@ -337,3 +337,11 @@ Devuelve la cantidad de valores hallados al ejecutar DISTINCT.
 </p>
 
 ### WHERE
+<p>Se utiliza para extraer atos que cumplen con una condición especificada.</p>
+
+<table>
+     <tr>
+          <td>SELECT nombre_dato FROM nombre_tabla WHERE condicion</td>
+          <td><img src="" alt="where" width="80"></td>
+     </tr>
+</table>
